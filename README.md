@@ -1,3 +1,3 @@
-# The Unscaled Incremental
+# Space Increments
 
-This is an incremental game without cost scaling! Get ready to see some big numbers! Uses OmegaNum.js
+Welcome to Space Increments! This is a game with no cost scaling.
